@@ -8,4 +8,4 @@ It keep things simple and limits the context you need to understand which is imp
 I have mostly worked with C and CPP but I do hope to expand my skillset to other tools and languages. 
 
 Im currently looking for work/internship. 
-You can reach me at tonttu.tovinen22@gmail.com
+You can reach me at tonttu.torvinen22@gmail.com
